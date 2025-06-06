@@ -302,7 +302,7 @@
       </div>
       <div class="flex justify-center gap-6 mt-8">
         <a
-          href="https://github.com/lidl-dev/kimiz"
+          href="https://github.com/kimiz-org/kimiz"
           class="button-primary"
           target="_blank"
           rel="noopener"

@@ -124,7 +124,7 @@
       style="animation-delay: 0.4s;"
     >
       <a
-        href="https://github.com/lidl-dev/kimiz"
+        href="https://github.com/kimiz-org/kimiz"
         class="hero-icon-btn"
         target="_blank"
         rel="noopener"

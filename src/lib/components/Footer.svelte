@@ -34,7 +34,7 @@
         <i class="fa-brands fa-github"></i>
       </a>
       <a
-        href="mailto:hello@lidl.dev"
+        href="mailto:ahmet.affan.ebcioglu@outlook.com"
         class="footer-icon-btn"
         aria-label="Email"
       >

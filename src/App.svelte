@@ -15,11 +15,11 @@
     name="keywords"
     content="macOS gaming, Windows games, Wine, Game Porting Toolkit, GPTK, Apple Silicon"
   />
-  <meta name="author" content="lidl.dev" />
+  <meta name="author" content="temidara.dev" />
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://kimiz.lidl.dev/" />
+  <meta property="og:url" content="https://kimiz.temidara.dev/" />
   <meta property="og:title" content="kimiz - Windows Gaming on macOS" />
   <meta
     property="og:description"
@@ -28,7 +28,7 @@
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="twitter:url" content="https://kimiz.lidl.dev/" />
+  <meta property="twitter:url" content="https://kimiz.temidara.dev/" />
   <meta property="twitter:title" content="kimiz - Windows Gaming on macOS" />
   <meta
     property="twitter:description"
